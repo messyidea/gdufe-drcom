@@ -1,3 +1,5 @@
+#include <stdint.h>
+
 char server[] = "58.62.247.115";
 char username[] ="";//Must be changed
 char password[] ="";
